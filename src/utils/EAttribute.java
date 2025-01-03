@@ -1,5 +1,6 @@
 package utils;
 
+// 属性
 public enum EAttribute {
     ATK,    // 攻击
     AP,     // 法强
